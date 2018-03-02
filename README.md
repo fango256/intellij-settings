@@ -5,3 +5,5 @@
 - Findbugs
 - Save Actions
 - Pug
+- Codeglance
+- .ignore
